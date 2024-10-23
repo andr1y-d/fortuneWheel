@@ -132,7 +132,7 @@
     }
     .segment span {
       display: inline-block;
-      transform: rotate(23deg); /* Повертаємо текст назад, щоб він був вертикальним */
+      transform: rotate(23deg); 
       font-size: 12px;
       color: black;
     }
@@ -165,7 +165,7 @@
     }
     .segment span {
       display: inline-block;
-      transform: rotate(23deg); /* Повертаємо текст назад, щоб він був вертикальним */
+      transform: rotate(23deg);
       font-size: 5px;
       color: black;
     }
